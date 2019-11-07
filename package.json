@@ -1,0 +1,18 @@
+{
+  "name": "csv_to_contentful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^5.11.3",
+    "csv-parse": "^4.6.5",
+    "d3": "^5.12.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
