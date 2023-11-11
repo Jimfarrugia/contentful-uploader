@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "contentful-management": "^10.22.0",
+    "contentful-management": "^10.46.4",
     "csv-parse": "^4.6.5",
     "d3": "^5.12.0",
     "dotenv": "^8.2.0",
